@@ -1,8 +1,8 @@
 Go library for in-process single-topic pub-sub
 ==============================================
 
-This library is especially aimed at situations where where consumers
-may disappear at any time.
+This library is especially aimed at situations where consumers may
+disappear at any time.
 
 Use the Go import path
 
